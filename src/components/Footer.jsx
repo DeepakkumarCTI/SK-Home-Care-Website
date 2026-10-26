@@ -15,7 +15,7 @@ const iconImages = {
   location: '/images/icons/location.png',
   phone: '/images/icons/phone.png',
   email: '/images/icons/email.png',
-  clock: '/images/icons/clock.jpg',
+  clock: '/images/icons/clock.png',
   privacy: '/images/icons/privacy.png',
   terms: '/images/icons/terms.png',
 }
