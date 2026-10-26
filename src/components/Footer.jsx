@@ -283,16 +283,9 @@ export default function Footer() {
               </span>
             </Link>
 
-            <p className="mt-4 text-xs font-semibold leading-5 text-amber-300 sm:text-sm sm:leading-6">
-              Pioneers in Domestic &amp; Elderly Care Services in Coimbatore
-              Since 1995
-            </p>
+           
 
-            <p className="mt-3 max-w-xl text-xs leading-6 text-rose-100/75 sm:text-sm sm:leading-7">
-              SK Home Care provides experienced candidates for housemaid
-              services, home cooking, babysitting, home nursing, elderly care
-              and patient care.
-            </p>
+            
 
             
             {/* Social Links */}
